@@ -3,18 +3,18 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'EVENT-DRIVEN-MICROSERVICES',
+  title: 'my-site',
   tagline: 'Documentation for AI projects',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://jacksteve-code.github.io',
   // Set the /<baseUrl>/ for your project. For GitHub pages, it is often '/projectName/'
-  baseUrl: '/EVENT-DRIVEN-MICROSERVICES/', 
+  baseUrl: '/distributed-dos/', 
 
   // GitHub pages deployment config.
   organizationName: 'jacksteve-code', 
-  projectName: 'EVENT-DRIVEN-MICROSERVICES', 
+  projectName: 'distributed-dos', 
   trailingSlash: false,
 
   onBrokenLinks: 'ignore',
